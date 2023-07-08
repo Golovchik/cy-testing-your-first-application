@@ -10,3 +10,9 @@ This application is for the [Testing your first application course](https://lear
 
 ## App Installation & Overview
 https://learn.cypress.io/testing-your-first-application/app-install-and-overview
+
+## Installing Cypress and writing your first test
+https://learn.cypress.io/testing-your-first-application/installing-cypress-and-writing-your-first-test
+
+npm install cypress --save-dev
+npx cypress open
