@@ -20,3 +20,6 @@ npx cypress open
 
 ## How to test forms & custom Cypress commands
 https://learn.cypress.io/testing-your-first-application/how-to-test-forms-and-custom-cypress-commands
+
+## How to test multiple pages
+https://learn.cypress.io/testing-your-first-application/how-to-test-multiple-pages
