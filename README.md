@@ -23,3 +23,6 @@ https://learn.cypress.io/testing-your-first-application/how-to-test-forms-and-cu
 
 ## How to test multiple pages
 https://learn.cypress.io/testing-your-first-application/how-to-test-multiple-pages
+
+## How to test user journeys
+https://learn.cypress.io/testing-your-first-application/how-to-test-user-journeys
